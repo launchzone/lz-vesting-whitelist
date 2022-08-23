@@ -1,0 +1,17 @@
+{
+    "vestingScheduleId": "0x44f7e42222c6bffb5c27e74ae25129a03f4e2c1e1f26be83516a1600913ad5c7",
+    "whitelist": {
+        "0x84d8593d28ce37922f0C31D04a6317e6E063F518": {
+            "vestingScheduleId": "0x44f7e42222c6bffb5c27e74ae25129a03f4e2c1e1f26be83516a1600913ad5c7",
+            "amountTotal": "10000000000000000000",
+            "nonce": 0,
+            "signature": {}
+        },
+        "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
+            "vestingScheduleId": "0x44f7e42222c6bffb5c27e74ae25129a03f4e2c1e1f26be83516a1600913ad5c7",
+            "amountTotal": "20000000000000000000",
+            "nonce": 1,
+            "signature": {}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "schedule_id": "0x44f7e42222c6bffb5c27e74ae25129a03f4e2c1e1f26be83516a1600913ad5c7",
+        "schedule_name": "mcc_private_sale",
+        "title": "MCC",
+        "description": "MultiChain Coin private sale",
+        "logo": "https://pbs.twimg.com/profile_images/1475369992631644163/4UKalk4C_400x400.jpg",
+        "token_symbol": "MCC"
+    }
+]
