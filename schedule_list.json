@@ -5,6 +5,8 @@
         "title": "MCC",
         "description": "MultiChain Coin private sale",
         "logo": "https://pbs.twimg.com/profile_images/1475369992631644163/4UKalk4C_400x400.jpg",
-        "token_symbol": "MCC"
+        "token_symbol": "MCC",
+        "token_contract": "0x4cf36812A083A5622C0912B8B7220d770aBd8ca5",
+        "token_decimal": 18
     }
 ]
