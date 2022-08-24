@@ -1,15 +1,20 @@
 {
-    "vestingScheduleId": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+    "vesting_schedule_id": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+    "schedule_name": "mcc_private_sale",
+    "title": "MCC",
+    "description": "MultiChain Coin private sale",
+    "logo": "https://pbs.twimg.com/profile_images/1475369992631644163/4UKalk4C_400x400.jpg",
+    "token_symbol": "MCC",
     "whitelist": {
         "0x84d8593d28ce37922f0C31D04a6317e6E063F518": {
-            "vestingScheduleId": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
-            "amountTotal": "10000000000000000000",
+            "vesting_schedule_id": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+            "amount_total": "10000000000000000000",
             "nonce": 0,
             "signature": {}
         },
         "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
-            "vestingScheduleId": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
-            "amountTotal": "20000000000000000000",
+            "vesting_schedule_id": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+            "amount_total": "20000000000000000000",
             "nonce": 1,
             "signature": {}
         }
