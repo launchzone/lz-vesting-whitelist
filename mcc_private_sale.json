@@ -9,16 +9,16 @@
     "token_decimal": 18,
     "whitelist": {
         "0x84d8593d28ce37922f0C31D04a6317e6E063F518": {
-            "vesting_schedule_id": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
-            "amount_total": "10000000000000000000",
+            "vestingScheduleId": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+            "amountTotal": "10000000000000000000",
             "nonce": 0,
-            "signature": {}
+            "signature": "0xb19e8942a3ce57d34c1b9e6635021ab3c3e4d3ca510f46ad5deae472e8ff30b547c619cebc5b0b03704ef4151cc03153b5034bd93611508e75c1af0e01cb0ee01c"
         },
         "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
-            "vesting_schedule_id": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
-            "amount_total": "20000000000000000000",
+            "vestingScheduleId": "0x377c9b083806110466f6af164e58f54d25a76211726e1b700c441425e78412aa",
+            "amountTotal": "20000000000000000000",
             "nonce": 1,
-            "signature": {}
+            "signature": "0x9c6a381087828f354b9175500ab3a238180f11e64ebe031785ad090a87a2c25c64ba0e9e96542af9a4d7075fb457a821b125a7fc4d5934510d5e00092bf000e51c"
         }
     }
 }
