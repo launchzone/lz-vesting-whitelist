@@ -1,0 +1,24 @@
+{
+    "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+    "schedule_name": "gwtseed_private_sale",
+    "title": "GWT Seed",
+    "description": "GalaxyWar Seed Sale",
+    "logo": "https://pbs.twimg.com/profile_images/1434878166095446019/e2x7gMJ4_400x400.jpg",
+    "token_symbol": "GWT",
+    "token_contract": "0x552594612f935441c01c6854EDf111F343c1Ca07",
+    "token_decimal": 18,
+    "whitelist": {
+        "0x84d8593d28ce37922f0C31D04a6317e6E063F518": {
+            "vesting_schedule_id": "0x0266a699bd8abe4f5469dcad057f040f71c5f72216a6b83d5d40d9f02cf24c93",
+            "amount_total": "10000000000000000000",
+            "nonce": 0,
+            "signature": "0x62d6cd2590d298d72dfc493aa81a201529fd44d3940b1f1656eb28c55e37b8e156948037de61c0ed361513cb34e2242cc5eb8f1b705409a5b2a07b31a62aecff1c"
+        },
+        "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
+            "vesting_schedule_id": "0x0266a699bd8abe4f5469dcad057f040f71c5f72216a6b83d5d40d9f02cf24c93",
+            "amount_total": "20000000000000000000",
+            "nonce": 1,
+            "signature": "0xf3591473775e687b26ead63bcf413b39b9028a37de92ce1036743daa1cde3ef70d44793eae23e62e09d59693815a2b6ecfefe7df1b743c01d100a196444170441c"
+        }
+    }
+}
