@@ -1,15 +1,5 @@
 [
   {
-    "vesting_schedule_id": "0x0266a699bd8abe4f5469dcad057f040f71c5f72216a6b83d5d40d9f02cf24c93",
-    "schedule_name": "mcc_private_sale",
-    "title": "MCC",
-    "description": "MultiChain Coin private sale",
-    "logo": "https://pbs.twimg.com/profile_images/1475369992631644163/4UKalk4C_400x400.jpg",
-    "token_symbol": "MCC",
-    "token_contract": "0x0bc052E8cc98F3F591df691860f5CA6745DDd734",
-    "token_decimal": 18
-  },
-  {
     "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
     "schedule_name": "gwtseed_private_sale",
     "title": "GWT Seed",

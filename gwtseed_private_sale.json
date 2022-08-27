@@ -1,24 +1,54 @@
 {
-    "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
-    "schedule_name": "gwtseed_private_sale",
-    "title": "GWT Seed",
-    "description": "GalaxyWar Seed Sale",
-    "logo": "https://pbs.twimg.com/profile_images/1434878166095446019/e2x7gMJ4_400x400.jpg",
-    "token_symbol": "GWT",
-    "token_contract": "0x552594612f935441c01c6854EDf111F343c1Ca07",
-    "token_decimal": 18,
-    "whitelist": {
-        "0x84d8593d28ce37922f0C31D04a6317e6E063F518": {
-            "vesting_schedule_id": "0x0266a699bd8abe4f5469dcad057f040f71c5f72216a6b83d5d40d9f02cf24c93",
-            "amount_total": "10000000000000000000",
-            "nonce": 0,
-            "signature": "0x62d6cd2590d298d72dfc493aa81a201529fd44d3940b1f1656eb28c55e37b8e156948037de61c0ed361513cb34e2242cc5eb8f1b705409a5b2a07b31a62aecff1c"
-        },
-        "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
-            "vesting_schedule_id": "0x0266a699bd8abe4f5469dcad057f040f71c5f72216a6b83d5d40d9f02cf24c93",
-            "amount_total": "20000000000000000000",
-            "nonce": 1,
-            "signature": "0xf3591473775e687b26ead63bcf413b39b9028a37de92ce1036743daa1cde3ef70d44793eae23e62e09d59693815a2b6ecfefe7df1b743c01d100a196444170441c"
-        }
+  "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+  "schedule_name": "gwtseed_private_sale",
+  "title": "GWT Seed",
+  "description": "GalaxyWar Seed Sale",
+  "logo": "https://pbs.twimg.com/profile_images/1434878166095446019/e2x7gMJ4_400x400.jpg",
+  "token_symbol": "GWT",
+  "token_contract": "0x552594612f935441c01c6854EDf111F343c1Ca07",
+  "token_decimal": 18,
+  "whitelist": {
+    "0x236E0640c74B4C87BA0Ce871aBab1dE967511AC2": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "300000000000000000000000",
+      "nonce": 0,
+      "signature": "0x28ece0adb582f0fcb6a5e5688cccd09942747549862372844e6316d12517f80e686daf715a1e9074ee2d6740188207f3b7f11a9ca13cc91269b583d43370d01a1b"
+    },
+    "0x93E9A007E39Df18FEfAc82ab713eD76aAeD540F6": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "600000000000000000000000",
+      "nonce": 1,
+      "signature": "0xf9c88af1fbcb7c6e1c6d75706e6f142909c1dc85fdfe52e7bf63a82353ada25240abef03608d3ba6160d0c10fe66ebe8f2a9d3e504d9c26402a001421e8a6e1b1b"
+    },
+    "0x5C1590ce5A14ff99D768b6DFf33AF80CF56B7502": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "500000000000000000000000",
+      "nonce": 2,
+      "signature": "0xbc138d9ed3d4c342e96f5a9fd9d7ec38a2315cd1787308ed50d233cd2c1b5e780d642794f6a4cb6760a70623cb88cb85d650cdd912d0e7f69b7c40b21179a6301c"
+    },
+    "0x4234b838edf62a86c4dd04118b78b9164a70f3c1": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "400000000000000000000000",
+      "nonce": 3,
+      "signature": "0x7a74d8c13a7e3be3cd95672d43ac1fe2e03d240207f89d74dda33e478060164d5754511bd5775f5146a2dc162427f3903e794f1018a574d8227d3a0de59e4d0b1c"
+    },
+    "0x4f898413147EA72256440Ed17D88059F968FeFea": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "700000000000000000000000",
+      "nonce": 4,
+      "signature": "0x7c13012bace5ff1c84fe22251475a0eea8ab09c525949b6bb089d01cb77d20df019bf198eb5b75e792e520ae229cbbd28b38ede867a297d6e9c1e1ff863d073a1c"
+    },
+    "0xa665a0507Ad4B0571B12B1f59FA7e8d2BF63C65F": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "2500000000000000000000000",
+      "nonce": 5,
+      "signature": "0x0f7d5393d9ac7e431a761141ce416f936258f2272ba8f6be3b9948a85b6f4793737003182d663da84087207bef7a9a7582d89fb9a02488eaf13e51223b4e76531b"
+    },
+    "0x5A97a4EE677973f26842b800B36AbBb8587b3bcc": {
+      "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
+      "amount_total": "5000000000000000000000000",
+      "nonce": 6,
+      "signature": "0xac8f4b19514360d80fb2b5dc0c5a2016867afe963e9fdd25df20225996b1362918a8769fe7f0d872c83820b57e455408fec9b613a7e3424887dca3789509a7ba1c"
     }
+  }
 }
