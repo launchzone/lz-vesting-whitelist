@@ -38,5 +38,15 @@
     "token_contract": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
     "token_decimal": 18,
     "vesting_schedule_id": "0x9d6588218918ec16dfc97e7ef5c732690b6793dbfbc509aaeeae3f36222c08c9"
+  },
+  {
+    "schedule_name": "fado_private_sale",
+    "title": "FADO Go Private Sale",
+    "description": "FADO Go Private Sale",
+    "logo": "https://pbs.twimg.com/profile_images/1475369992631644163/4UKalk4C_400x400.jpg",
+    "token_symbol": "FADO",
+    "token_contract": "0x827d24bB2aad813fE6F49b798F44cCe4c48Bd478",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0xb1b1abef9f7ac265227ea22ef69b075f69e99aab35237ab7411d300f400bb14d"
   }
 ]
