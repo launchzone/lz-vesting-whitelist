@@ -1,7 +1,7 @@
 {
   "schedule_name": "thg_private_sale",
   "title": "THG Private Sale",
-  "description": "Thetan Private Sale",
+  "description": "Thetan Arena Private Sale",
   "logo": "https://pbs.twimg.com/profile_images/1509863413001777162/nxQuwvDn_400x400.jpg",
   "token_symbol": "THG",
   "token_contract": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
