@@ -40,6 +40,16 @@
     "vesting_schedule_id": "0x9d6588218918ec16dfc97e7ef5c732690b6793dbfbc509aaeeae3f36222c08c9"
   },
   {
+    "schedule_name": "nino_lz_heroes",
+    "title": "Ninneko LZ Heroes",
+    "description": "Ninneko LZ Heroes",
+    "logo": "https://pbs.twimg.com/profile_images/1448909147303395333/CXZox2iX_400x400.jpg",
+    "token_symbol": "NINO",
+    "token_contract": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x4a1196b075c5a3c583906038953071048775aee039d993b18c4aeacac95ce493"
+  },
+  {
     "schedule_name": "fado_private_sale",
     "title": "FADO Go Private Sale",
     "description": "FADO Go Private Sale",
@@ -60,13 +70,13 @@
     "vesting_schedule_id": "0x788427b7f42814045ac6621258c8ae1a96c0180502c773f1a71ee2e8d334ce60"
   },
   {
-    "schedule_name": "nino_lz_heroes",
-    "title": "Ninneko LZ Heroes",
-    "description": "Ninneko LZ Heroes",
-    "logo": "https://pbs.twimg.com/profile_images/1448909147303395333/CXZox2iX_400x400.jpg",
-    "token_symbol": "NINO",
-    "token_contract": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
+    "schedule_name": "dyt_private_sale",
+    "title": "The Dynasty Private Sale",
+    "description": "DYT Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14357.png",
+    "token_symbol": "DYT",
+    "token_contract": "0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
     "token_decimal": 18,
-    "vesting_schedule_id": "0x4a1196b075c5a3c583906038953071048775aee039d993b18c4aeacac95ce493"
+    "vesting_schedule_id": "0x2276e7cebc6fe857c10b95b99707a35d79486a7a50ec3573b264a7babb0f37c0"
   }
 ]
