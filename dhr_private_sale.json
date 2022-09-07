@@ -1,0 +1,114 @@
+{
+    "schedule_name": "dhr_private_sale",
+    "title": "DEHR Network Private Sale",
+    "description": "DHR Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16212.png",
+    "token_symbol": "DHR",
+    "token_contract": "0x9fEf6766ecf9e105b2753f7f8968Dc8293A69460",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+    "whitelist": {
+      "0xae3dF7656b43A9831b475efa16754EDb44C35288": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3404,
+        "signature": "0xcd43fd333a1a294f7aa8ce7d0ac866088561dbfc86a8b2e19b2bda87a961aea171b370a01d40af0b019ff81c127ab0765cabd5018f171ec0dd575587c19b33681b"
+      },
+      "0xA4C63dc6aB5502525E742767309C281E6bE2A043": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3405,
+        "signature": "0x69bf62c14528e35f8d738629bdb754319cab2987158450131ee83b7a9fd3d7183a93d3b2e8b9e5b85dea473535bc8942eca5b3da29ad7e6fe6030ee4e3e4c8861b"
+      },
+      "0xB82deeA7aFB2449694f79fB2D58b7B48f8F71Cae": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "43200000000000000000000",
+        "nonce": 3406,
+        "signature": "0x54299469cfbe11a932daec42082f00afdc0327965b3f2dbd32afb05cb4de85433ce8584f05dff6e296970e9fd4ce3b52445234a4ca68177affd59c666bd6e9811b"
+      },
+      "0x843B9FecBD1Be8Ace3F17cC94730ed832e2bE928": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3407,
+        "signature": "0x80c5a8e7dbe935c0b5ceb08b5f90026576150972d8e665a28dcaf2f515b769c6299d7b95db3b9e3b97cf91765f070a70b4fbbb6682477a90ce05425de51478601c"
+      },
+      "0xa18dA75FB4710fB45Bc7AB4214899Ee88c81DBA9": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3408,
+        "signature": "0x882db7bd5bcef61129105f972209a1f6052a93c24ac844b7d58ff2ea88e9760f578fc38fec64164ffb887f684e7dadf3bf7aa27f9af592191bcd222b9ce9789f1b"
+      },
+      "0xb1D0008Cc41d19C6770b5035bc703891CE108a9d": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "57000000000000000000000",
+        "nonce": 3409,
+        "signature": "0x918e07a1629278b904e2fdd8bd3e39ca22d1ec6e871eb8f6c02dc804f86c5b23560ed777c98cf3d0a760595f51902f7dba80edb61e3a63c828a08f125d84697b1b"
+      },
+      "0xBCfbf4b14F0e1447627B5852a79Dc8da2083CdD3": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "36000000000000000000000",
+        "nonce": 3410,
+        "signature": "0x3113fe3f6ee55ad0c684c824aadb5aea897d7db9f07d9e544e22d1eff452c1767f983e0f95c9ddbdd9b4fde84db807597e77b5df655cbcb8a74f0989f1040a1a1c"
+      },
+      "0x0Fd827ff7bBC44d7cfAb5208047D6Ca4B48b2397": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "32400000000000000000000",
+        "nonce": 3411,
+        "signature": "0x22890d46c53b4e9bd81826abcb02282bf52589e43511ae600aaec241e9ce1fb9580ad6691c17b46fe8b4f00431edd78140406f731752df4d5f21f52fa9eb81061c"
+      },
+      "0xE12c0908AB1243DF46726B12f4D5f7AEB48656F0": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3412,
+        "signature": "0xd5284f16319e8b368a67f761184dec34994fc89771ecc2cccb89df055ce9e5a35c66282bdddff672e92c11ac3c36a969489553ffbd114694374c650bbeac0cdc1b"
+      },
+      "0x870185922F89383cB4aceB96a98A0374F9c84ae4": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3413,
+        "signature": "0xb35a38828cd5baa3ec91cd9ae07424d60f25cd59a1695f3e98000c572ecd993524b01a5f37426b2892048fdd03484c901899c28df100af0454b0c906ac1504301c"
+      },
+      "0x2Df08733e0Fce53A91F8f50473674FA5cdBc0590": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "60000000000000000000000",
+        "nonce": 3414,
+        "signature": "0xb45197cca09824c12be0dfa1ce2bd2120eadf985e3d0c2caf4e2b67dc1b261e913ce3b73a52bcc5ce16e65dae5dcd815e9846166f3bec230ca4293ecd95a9afe1c"
+      },
+      "0x6d5903bbb4A2b47C7c610bad34bC389bB2EcF1B3": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3415,
+        "signature": "0xb7a7cf98e6680c3cd6272dbac5a7a5e48aef8a39e35dfdc8860c1e76a90753e65ac5593edec45ce356b5dfe7c9e1d6b94627f17959e1cd296063d93adce79e771c"
+      },
+      "0x0B516551eaCdDdDA7b508B6cc23a47fEeb5dA0EE": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3416,
+        "signature": "0x3f5df2e3dad44e9b1605083b64a72454b6338fbc135ce74dab6ebdfbc0b82daa1017f4d9822ec13a58eecf253543fcbd68159bd5012ed8eda4c3331a10d804ab1b"
+      },
+      "0xEa026CFC6C4d1968B1aADfDF3605d738D5A0EB7f": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3417,
+        "signature": "0xfd435d3ae4efad59eeb8d099f07e8335ff747741187ef315e7b4fa43d01db8be559ed6f7fd2de0b20e3f024f6dad4313f6463112e8153491b7cfed3f0d54830e1b"
+      },
+      "0x7Cb3b0a5DB4F9D929A9C953B11B03771462dEFD6": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3418,
+        "signature": "0xb613a09b3d3d308c92f997a043e363b9e1845a45558672154105f0478cce76206d27771c1e0e3d200b6f5c60871b843246f197b7c9b2095ebe806d6e9091a2ce1b"
+      },
+      "0x52587535AE070E3c02B8Dfa17AcCf49C838DFE78": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3419,
+        "signature": "0x6e262440c97362cdfab276f7597bac2c128697c721d37521dfeb9b4931898d171cdd89cae3d0a2cec194489052e9aa77d96a9df34e4ec56de386c9ae95ed7cbc1c"
+      },
+      "0x897ff24f0867392324182439633d050B8eCD4a4F": {
+        "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500",
+        "amount_total": "30000000000000000000000",
+        "nonce": 3420,
+        "signature": "0x3b52f8a6425bdb1ecb1253663785e6039d3a111112723be875e51e09241af9fb1cb156160b9c80ee5830e85e5ed7baa7bec19cac966a3495efe021bebaa853891c"
+      }
+    }
+  }

@@ -88,5 +88,15 @@
     "token_contract": "0x3465fD2D9f900e34280aBab60E8d9987B5b5bb47",
     "token_decimal": 18,
     "vesting_schedule_id": "0xf3143bd63a8427fb7e1c57ed49c58784bbce323ffe93dc9ea399bf5a66b5031d"
+  },
+  {
+    "schedule_name": "dhr_private_sale",
+    "title": "DEHR Network Private Sale",
+    "description": "DHR Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16212.png",
+    "token_symbol": "DHR",
+    "token_contract": "0x9fEf6766ecf9e105b2753f7f8968Dc8293A69460",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0xfeb8d02e1f5344b5400199dfd2554ebda0ca1bab822adab17bedfdb98e4c4500"
   }
 ]
