@@ -138,5 +138,15 @@
     "token_contract": "0xe81257d932280ae440b17afc5f07c8a110d21432",
     "token_decimal": 18,
     "vesting_schedule_id": "0x1a6b0ef3ec50a3e068c7f92a2d5e4842ad95069f0f0ef86aafbfffe5d5896362"
+  },
+  {
+    "schedule_name": "kart_private_sale",
+    "title": "Dragon Kart Private Sale",
+    "description": "KART Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12614.png",
+    "token_symbol": "KART",
+    "token_contract": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x3827efd1cfdff71ab87e97c0677a54a6073c50edea131ce65636b40675ade3a9"
   }
 ]
