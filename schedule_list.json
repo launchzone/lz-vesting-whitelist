@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "srg_seed_sale",
+    "title": "Slime Royale Gold Seed Sale",
+    "description": "SRG Seed Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20985.png",
+    "token_symbol": "SRG",
+    "token_contract": "0xc0FF232D16B415FE7A0D3842d31280778a9400eF",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x9998bfde8389b045c7aaf3a45c1d80cdf4e0f8c1d5852b1d61496b90da226c3e"
+  },
+  {
     "vesting_schedule_id": "0x15daef84ba9308d9679c0b1e93f66dcd436528d681c928a237d74ab3c7c6a97a",
     "schedule_name": "gwtseed_private_sale",
     "title": "GWT Seed",
