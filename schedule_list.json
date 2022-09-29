@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "antex_private_sale",
+    "title": "Antex Private Sale",
+    "description": "ANTEX Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11708.png",
+    "token_symbol": "ANTEX",
+    "token_contract": "0xca1acab14e85f30996ac83c64ff93ded7586977c",
+    "token_decimal": 8,
+    "vesting_schedule_id": "0xaf62420a55948e6de2cc4b12f06aeef7551fa20c7927ab7a61448b465b015d4e"
+  },
+  {
     "schedule_name": "srg_seed_sale",
     "title": "Slime Royale Gold Seed Sale",
     "description": "SRG Seed Sale",
