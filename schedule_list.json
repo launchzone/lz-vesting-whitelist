@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "stman_private_sale",
+    "title": "STMAN Private Sale",
+    "description": "STMAN Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15515.png",
+    "token_symbol": "STMAN",
+    "token_contract": "0xb75088a5d75e9ff7264abc7d25721e4436ec309d",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0xc7cde3c414d81cbc18d129c866919a9a787f93eb105630c2af02b0436100b610"
+  },
+  {
     "schedule_name": "chick_private_sale",
     "title": "CHICK Private Sale",
     "description": "CHICK Private Sale",
