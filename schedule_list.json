@@ -7,7 +7,7 @@
     "token_symbol": "BCMC",
     "token_contract": "0xc10358f062663448a3489fc258139944534592ac",
     "token_decimal": 18,
-    "vesting_schedule_id": "0x4a63784107940b1e63960ec8535a47f611aa91e6671685ca21db131f95df0478"
+    "vesting_schedule_id": "0xa52ed6bd2ab46d11d28883941e6ab2106556c6cb7ea45cd685261b94cf4021d7"
   },
   {
     "schedule_name": "antex_private_sale",
