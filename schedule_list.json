@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "bcmc_private_sale",
+    "title": "BCMC Strategic Sale",
+    "description": "BCMC Strategic Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12751.png",
+    "token_symbol": "BCMC",
+    "token_contract": "0xc10358f062663448a3489fc258139944534592ac",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x314b1b170868aa12d241b201dd4642d7372fa70cb25d15cb2ce458d35af95bc4"
+  },
+  {
     "schedule_name": "antex_private_sale",
     "title": "Antex Private Sale",
     "description": "ANTEX Private Sale",
