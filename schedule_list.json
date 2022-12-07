@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "mowa_private_sale",
+    "title": "Moniwar Private Sale",
+    "description": "Moniwar Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12172.png",
+    "token_symbol": "MOWA",
+    "token_contract": "0x411Ec510c85C9e56271bF4E10364Ffa909E685D9",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x1160a4276977f27bc8f0774ee679fcf14f4a054774584a11bf254b8bb2a49060"
+  },
+  {
     "schedule_name": "hero_private_sale",
     "title": "Step Hero Private Sale",
     "description": "Step Hero Private Sale",
