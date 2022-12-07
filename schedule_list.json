@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "next_private_sale",
+    "title": "ShopNEXT Private Sale",
+    "description": "ShopNEXT Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14841.png",
+    "token_symbol": "NEXT",
+    "token_contract": "0x9809e877192b510d767a94ba39a79429219a5afb",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x3351e3efe7855b91b3fc65edbda895fd0a6bce7fa1d5ebc6e2314667218cd7a0"
+  },
+  {
     "schedule_name": "stman_private_sale",
     "title": "STMAN Private Sale",
     "description": "STMAN Private Sale",
