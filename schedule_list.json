@@ -1,5 +1,15 @@
 [
   {
+    "schedule_name": "hero_private_sale",
+    "title": "Step Hero Private Sale",
+    "description": "Step Hero Private Sale",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11067.png",
+    "token_symbol": "HERO",
+    "token_contract": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+    "token_decimal": 18,
+    "vesting_schedule_id": "0x559a69ed839e2937f058ae29989cc7d74ba2a4da235c69fb73d94f098b3ff954"
+  },
+  {
     "schedule_name": "next_private_sale",
     "title": "ShopNEXT Private Sale",
     "description": "ShopNEXT Private Sale",
